@@ -1,23 +1,24 @@
-# ☕ Meus Estudos em Java (MyNewJava)
+# ☕ Java Learning Journey
 
-Repositório dedicado ao registro do meu aprendizado prático e evolução na linguagem **Java**, cobrindo desde conceitos fundamentais até tópicos mais avançados de programação orientada a objetos.
-
----
-
-## 🎯 Objetivo
-
-Centralizar códigos de estudo, exercícios práticos, anotações e pequenos projetos desenvolvidos ao longo da minha jornada de desenvolvimento em Java.
+A dedicated repository to document my progress, hands-on exercises, and core concepts while learning **Java**, from basic fundamentals to Object-Oriented Programming (OOP) and beyond.
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## 🎯 Purpose
 
-A estrutura de pastas está organizada por módulos para facilitar a consulta e o acompanhamento do progresso:
+The main goal of this repository is to keep all my Java study material, coding exercises, and notes organized in one place for future reference and continuous learning.
+
+---
+
+## 🗂️ Project Structure
+
+The project is organized into modular packages to ensure a clean progression path:
+
 ```text
 MyNewJava/
 │
 └── src/
-    └── module01_basics/      # Fundamentos da Linguagem
-        ├── FirstCode.java    # Estrutura inicial, saída no console e comentários
-        ├── UserInputs.java   # Leitura de dados do usuário (Scanner)
-        └── Variables.java    # Tipos de dados, variáveis e operadores
+    └── module01_basics/      # Core language fundamentals
+        ├── FirstCode.java    # Basic structure, console output, and comments
+        ├── UserInputs.java   # Reading user input using Scanner
+        └── Variables.java    # Data types, variables, and operators
