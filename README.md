@@ -13,7 +13,7 @@ Centralizar códigos de estudo, exercícios práticos, anotações e pequenos pr
 ## 🗂️ Estrutura do Projeto
 
 A estrutura de pastas está organizada por módulos para facilitar a consulta e o acompanhamento do progresso:
-
+```text
 MyNewJava/
 │
 └── src/
