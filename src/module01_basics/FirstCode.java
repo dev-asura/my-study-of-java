@@ -1,6 +1,6 @@
 package module01_basics;
 
-public class FirstCode {
+public class firstCode {
     public static void main(String[] args) {
         System.out.println("I like ice-cream!");
         System.out.print("It's really good!\n");
