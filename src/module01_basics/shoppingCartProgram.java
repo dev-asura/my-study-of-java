@@ -20,10 +20,5 @@ public class shoppingCartProgram {
 
         System.out.println("You have bought " + quantity + " " + item + "/s");
         System.out.println("Your total is: $" + total);
-
-
-
-
-
     }
 }
