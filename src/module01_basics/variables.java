@@ -1,6 +1,6 @@
 package module01_basics;
 
-public class Variables {
+public class variables {
     public static void main(String[] args) {
         // Steps to create a variable
         // --------------------------
