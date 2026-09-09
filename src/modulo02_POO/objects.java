@@ -1,5 +1,4 @@
-import java.util.Random;
-import java.util.Scanner;
+package modulo02_POO;
 
 public class objects {
     public static void main(String[] args){
