@@ -13,4 +13,9 @@ public class ToStringMethodCar {
         this.year = year;
         this.color = color;
     }
+
+    @Override
+    public String toString(){
+        return this.color + " " + this.year + " " + this.make + " " + this.model;
+    }
 }
