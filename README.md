@@ -18,7 +18,7 @@ The project is organized into modular packages to ensure a clean progression pat
 MyNewJava/
 │
 └── src/
-    └── module01_basics/      # Core language fundamentals
+    └── Basic/      # Core language fundamentals
         ├── FirstCode.java    # Basic structure, console output, and comments
         ├── UserInputs.java   # Reading user input using Scanner
         └── Variables.java    # Data types, variables, and operators
