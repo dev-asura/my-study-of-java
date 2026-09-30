@@ -1,4 +1,9 @@
 package OOP.Exercises.NotificationServiceWithInterfaces;
 
-public class SMSNotification {
+public class SMSNotification implements NotificationService{
+
+    @Override
+    public void sendNotification(String message, String recipient){
+        System.out.printf("SMS sent to %s\n", recipient);
+    }
 }
